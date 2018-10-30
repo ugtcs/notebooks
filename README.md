@@ -6,4 +6,6 @@ This repository contains a collection of iPython notebooks implementing various 
 
 #### [FA18] Beyond Worst Case Analysis
 
-- `lec8-sbm-exact.ipynb` implements the SDP algorithm for exactly recovering partitions in a Stochastic Block Model.
+- `lec3-spectral-planted-clique` implements the AKS spectral algorithm for recovering a planted clique of size O(sqrt(k)).
+- `lec6-approx-sbm.ipynb` implements the spectral algorithm for approximately recovering partitions in a Stochastic Block Model.
+- `lec7-exact-sbm.ipynb` implements the SDP algorithm for exactly recovering partitions in a Stochastic Block Model.
